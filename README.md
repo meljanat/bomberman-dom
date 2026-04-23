@@ -11,14 +11,7 @@ A real-time, multiplayer Bomberman clone built with Node.js, WebSockets, and a c
 - **Live Chat System:** Communicate with other players via an integrated chat box available in both the lobby and the active game screen.
 - **Responsive UI:** A modern, card-based interface with dynamic views (Main Menu, Waiting Room, Game Screen, and Game Over).
 
-## 📖 Documentation
-
-For more detailed information, please refer to the following documents:
-- [Installation and Setup](INSTALL.md)
-- [How to Play](HOW_TO_PLAY.md)
-- [Architecture & Project Structure](ARCHITECTURE.md)
-
-# Installation and Setup
+## Installation and Setup
 
 Follow these steps to get a local instance of Bomberman-DOM up and running.
 
